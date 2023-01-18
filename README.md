@@ -1,6 +1,6 @@
 # Docker NGINX Reverse Proxy
 
-Simple Docker and NGINX HTTP reverse proxy example deploying 4 docker service
+Simple Docker and NGINX HTTP reverse proxy example deploying 3 docker service
 
 ## Link logical domain name to the IP address of the server
 
